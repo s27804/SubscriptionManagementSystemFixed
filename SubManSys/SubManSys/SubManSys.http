@@ -1,0 +1,6 @@
+@SubManSys_HostAddress = http://localhost:5030
+
+GET {{SubManSys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
